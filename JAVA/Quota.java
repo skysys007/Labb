@@ -36,9 +36,5 @@ class Quota{
         System.out.println("Additional Discount: " + discount_amount);
         System.out.println("Final Amount to be paid: " + course_fee);
         }
-
-
-
-
     }
 }
