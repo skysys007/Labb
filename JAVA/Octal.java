@@ -5,7 +5,7 @@ class Octal {
 
         while (decimal != 0) {
             rem = decimal % 8;
-            octal = octal + rem * i;
+             octal = octal + rem * i;
             decimal /= 8;
             i *= 10;
         }

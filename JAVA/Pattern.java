@@ -1,7 +1,7 @@
 class Pattern{
     public static void main(String[] args) {
         int i = 1, j;
-        int num = 7;
+        int num = 10;
         int temp= num-1;
         int k;
         while(i<=num){
