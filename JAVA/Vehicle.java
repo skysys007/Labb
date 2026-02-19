@@ -7,7 +7,6 @@ public class Vehicle {
     public int speed, wheelerType;
     public float discountPerc, price;
 
-    // Default Constructor
     public Vehicle() {
         name = "Default";
         wheelerType = 0;
@@ -16,7 +15,6 @@ public class Vehicle {
         discountPerc = 0;
     }
 
-    // Parameterized Constructor
     public Vehicle(String name, String c_name, int wt, int speed, float dP, float price) {
         this.name = name;
         companyName = c_name;
@@ -26,7 +24,6 @@ public class Vehicle {
         this.price = price;
     }
 
-    // Display Vehicle Info
     public void getInfo() {
         System.out.println("\n----- Vehicle Information -----");
         System.out.println("Name: " + name);
@@ -37,18 +34,15 @@ public class Vehicle {
         System.out.println("Discounted Price: " + (price - (discountPerc * price)));
     }
 
-    // Change price and speed
     public void changeInfo(float price, int speed) {
         this.price = price;
         this.speed = speed;
     }
 
-    // Calculate Discount
     public void calcDiscount() {
         System.out.println("Discounted Price: " + (price - (discountPerc * price)));
     }
 
-    // Change company (static method)
     public static void changeCompany(String newCompany) {
         companyName = newCompany;
     }
@@ -57,7 +51,6 @@ public class Vehicle {
 
         Scanner sc = new Scanner(System.in);
 
-        // User input for vehicle creation
         System.out.print("Enter Vehicle Name: ");
         String name = sc.nextLine();
 
@@ -72,7 +65,7 @@ public class Vehicle {
 
         System.out.print("Enter Discount Percentage: ");
         float discount = sc.nextFloat();
-        discount = discount / 100;  // convert to decimal
+        discount = discount / 100;  
 
         System.out.print("Enter Price: ");
         float price = sc.nextFloat();
@@ -81,9 +74,8 @@ public class Vehicle {
 
         int choice;
 
-        // Menu loop
         do {
-            System.out.println("\n===== MENU =====");
+            System.out.println("\n MENU ");
             System.out.println("1. Show Vehicle Info");
             System.out.println("2. Change Price and Speed");
             System.out.println("3. Change Company Name");
@@ -111,7 +103,7 @@ public class Vehicle {
                     break;
 
                 case 3:
-                    sc.nextLine(); // clear buffer
+                    sc.nextLine(); 
                     System.out.print("Enter New Company Name: ");
                     String newCompany = sc.nextLine();
 
