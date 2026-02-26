@@ -28,10 +28,12 @@ class BankAccount {
         balance += amount;
     }
 
+    // Change Password (no getter for password)
     public void changePassword(String newPassword) {
         this.password = newPassword;
     }
 
+    // Getters & Setters (except name & password getter)
     public int getAccountNumber() {
         return accountNumber;
     }
