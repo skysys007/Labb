@@ -38,6 +38,22 @@ class LinkedList {
         System.out.println("");
 
     }
+    public void displayLowest(){
+        if (head == null) {
+            System.out.println("List is Empty");
+            return;
+        }
+        int min = head.data;
+        Node temp = head;
+
+        while(temp!=null){
+            if(temp.data<min){
+                min = temp.data;
+            }
+            temp = temp.next;
+        }
+        System.out.println("Lowest number in the list: " + min);
+    }
 }
 
 public class Main {
@@ -48,10 +64,11 @@ public class Main {
 
         list.insert(10);
         list.insert(20);
-        list.insert(30);
+        list.insert(-30);
         list.insert(40);
 
         System.out.println("Linked List:");
         list.display();
+        list.displayLowest();
     }
 }
