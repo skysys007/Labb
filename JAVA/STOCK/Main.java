@@ -1,30 +1,21 @@
 import java.util.Scanner;
 
-class Main {
-
-    static void issue(int stock, int req_stock) throws Exception {
-        if (req_stock > stock) {
-            throw new Exception("Not enough stock to issue");
-        } else {
-            stock -= req_stock;
-            System.out.println("Remaining Balance: " + stock);
-        }
-    }
-
+public class Main {
     public static void main(String[] args) {
-        int stock = 500;
-        System.out.println("Items in Stock: " + stock);
+        Inventory inventory = new Inventory(10);
+        Scanner scanner = new Scanner(System.in);
 
-        Scanner sc = new Scanner(System.in);
-
-        System.out.print("Enter Stock quantity to request: ");
-        int req_stock = sc.nextInt();
-        sc.close();   
+        System.out.println("Available stock: " + inventory.getStock());
+        System.out.print("Enter quantity to request: ");
+        int requestedQuantity = scanner.nextInt();
 
         try {
-            issue(stock, req_stock);
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
+            inventory.requestItem(requestedQuantity);
+        } catch (InsufficientStockException e) {
+            System.out.println("Stock Error: " + e.getMessage());
+            System.out.println("Available stock: " + e.getAvailable());
         }
+
+        scanner.close();
     }
 }
