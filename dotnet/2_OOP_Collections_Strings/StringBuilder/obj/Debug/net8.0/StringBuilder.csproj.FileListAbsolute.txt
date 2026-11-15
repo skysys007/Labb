@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/bin/Debug/net8.0/StringBuilder
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/bin/Debug/net8.0/StringBuilder.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/bin/Debug/net8.0/StringBuilder.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/bin/Debug/net8.0/StringBuilder.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/bin/Debug/net8.0/StringBuilder.pdb
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/obj/Debug/net8.0/StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/obj/Debug/net8.0/StringBuilder.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/obj/Debug/net8.0/StringBuilder.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/obj/Debug/net8.0/StringBuilder.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/obj/Debug/net8.0/StringBuilder.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/obj/Debug/net8.0/refint/StringBuilder.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/obj/Debug/net8.0/StringBuilder.pdb
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/obj/Debug/net8.0/StringBuilder.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/StringBuilder/obj/Debug/net8.0/ref/StringBuilder.dll

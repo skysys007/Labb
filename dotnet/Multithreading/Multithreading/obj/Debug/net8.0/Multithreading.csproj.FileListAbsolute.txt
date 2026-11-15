@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/bin/Debug/net8.0/Multithreading
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/bin/Debug/net8.0/Multithreading.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/bin/Debug/net8.0/Multithreading.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/bin/Debug/net8.0/Multithreading.dll
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/bin/Debug/net8.0/Multithreading.pdb
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.dll
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/obj/Debug/net8.0/refint/Multithreading.dll
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.pdb
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/obj/Debug/net8.0/Multithreading.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/Multithreading/Multithreading/obj/Debug/net8.0/ref/Multithreading.dll

@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/bin/Debug/net8.0/CUSTOM
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/bin/Debug/net8.0/CUSTOM.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/bin/Debug/net8.0/CUSTOM.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/bin/Debug/net8.0/CUSTOM.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/bin/Debug/net8.0/CUSTOM.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/obj/Debug/net8.0/CUSTOM.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/obj/Debug/net8.0/CUSTOM.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/obj/Debug/net8.0/CUSTOM.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/obj/Debug/net8.0/CUSTOM.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/obj/Debug/net8.0/CUSTOM.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/obj/Debug/net8.0/refint/CUSTOM.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/obj/Debug/net8.0/CUSTOM.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/obj/Debug/net8.0/CUSTOM.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/CUSTOM/obj/Debug/net8.0/ref/CUSTOM.dll

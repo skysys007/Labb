@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/bin/Debug/net8.0/String_Coversion
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/bin/Debug/net8.0/String_Coversion.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/bin/Debug/net8.0/String_Coversion.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/bin/Debug/net8.0/String_Coversion.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/bin/Debug/net8.0/String_Coversion.pdb
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/obj/Debug/net8.0/String_Coversion.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/obj/Debug/net8.0/String_Coversion.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/obj/Debug/net8.0/String_Coversion.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/obj/Debug/net8.0/String_Coversion.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/obj/Debug/net8.0/String_Coversion.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/obj/Debug/net8.0/refint/String_Coversion.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/obj/Debug/net8.0/String_Coversion.pdb
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/obj/Debug/net8.0/String_Coversion.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Coversion/obj/Debug/net8.0/ref/String_Coversion.dll

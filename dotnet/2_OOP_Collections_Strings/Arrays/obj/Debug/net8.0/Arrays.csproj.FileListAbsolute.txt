@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/obj/Debug/net8.0/Arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/obj/Debug/net8.0/Arrays.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/obj/Debug/net8.0/Arrays.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/bin/Debug/net8.0/Arrays
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/bin/Debug/net8.0/Arrays.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/bin/Debug/net8.0/Arrays.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/bin/Debug/net8.0/Arrays.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/bin/Debug/net8.0/Arrays.pdb
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/obj/Debug/net8.0/Arrays.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/obj/Debug/net8.0/refint/Arrays.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/obj/Debug/net8.0/Arrays.pdb
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/obj/Debug/net8.0/Arrays.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Arrays/obj/Debug/net8.0/ref/Arrays.dll

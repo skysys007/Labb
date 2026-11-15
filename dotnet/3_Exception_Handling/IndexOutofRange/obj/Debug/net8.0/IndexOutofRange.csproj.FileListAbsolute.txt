@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/bin/Debug/net8.0/IndexOutofRange
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/bin/Debug/net8.0/IndexOutofRange.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/bin/Debug/net8.0/IndexOutofRange.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/bin/Debug/net8.0/IndexOutofRange.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/bin/Debug/net8.0/IndexOutofRange.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/obj/Debug/net8.0/IndexOutofRange.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/obj/Debug/net8.0/IndexOutofRange.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/obj/Debug/net8.0/IndexOutofRange.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/obj/Debug/net8.0/IndexOutofRange.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/obj/Debug/net8.0/IndexOutofRange.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/obj/Debug/net8.0/refint/IndexOutofRange.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/obj/Debug/net8.0/IndexOutofRange.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/obj/Debug/net8.0/IndexOutofRange.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/IndexOutofRange/obj/Debug/net8.0/ref/IndexOutofRange.dll

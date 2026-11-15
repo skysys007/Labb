@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/bin/Debug/net8.0/Format
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/bin/Debug/net8.0/Format.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/bin/Debug/net8.0/Format.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/bin/Debug/net8.0/Format.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/bin/Debug/net8.0/Format.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/obj/Debug/net8.0/Format.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/obj/Debug/net8.0/Format.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/obj/Debug/net8.0/Format.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/obj/Debug/net8.0/Format.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/obj/Debug/net8.0/Format.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/obj/Debug/net8.0/refint/Format.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/obj/Debug/net8.0/Format.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/obj/Debug/net8.0/Format.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Format/obj/Debug/net8.0/ref/Format.dll

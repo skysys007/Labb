@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/bin/Debug/net8.0/NullReference
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/bin/Debug/net8.0/NullReference.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/bin/Debug/net8.0/NullReference.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/bin/Debug/net8.0/NullReference.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/bin/Debug/net8.0/NullReference.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/obj/Debug/net8.0/NullReference.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/obj/Debug/net8.0/NullReference.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/obj/Debug/net8.0/NullReference.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/obj/Debug/net8.0/NullReference.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/obj/Debug/net8.0/NullReference.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/obj/Debug/net8.0/refint/NullReference.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/obj/Debug/net8.0/NullReference.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/obj/Debug/net8.0/NullReference.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/NullReference/obj/Debug/net8.0/ref/NullReference.dll

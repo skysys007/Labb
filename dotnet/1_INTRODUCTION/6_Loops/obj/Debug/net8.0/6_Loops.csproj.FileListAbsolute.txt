@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/bin/Debug/net8.0/6_Loops
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/bin/Debug/net8.0/6_Loops.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/bin/Debug/net8.0/6_Loops.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/bin/Debug/net8.0/6_Loops.dll
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/bin/Debug/net8.0/6_Loops.pdb
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/obj/Debug/net8.0/6_Loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/obj/Debug/net8.0/6_Loops.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/obj/Debug/net8.0/6_Loops.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/obj/Debug/net8.0/6_Loops.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/obj/Debug/net8.0/6_Loops.dll
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/obj/Debug/net8.0/refint/6_Loops.dll
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/obj/Debug/net8.0/6_Loops.pdb
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/obj/Debug/net8.0/6_Loops.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/6_Loops/obj/Debug/net8.0/ref/6_Loops.dll

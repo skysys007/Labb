@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/bin/Debug/net8.0/5_Ternary
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/bin/Debug/net8.0/5_Ternary.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/bin/Debug/net8.0/5_Ternary.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/bin/Debug/net8.0/5_Ternary.dll
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/bin/Debug/net8.0/5_Ternary.pdb
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/obj/Debug/net8.0/5_Ternary.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/obj/Debug/net8.0/5_Ternary.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/obj/Debug/net8.0/5_Ternary.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/obj/Debug/net8.0/5_Ternary.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/obj/Debug/net8.0/5_Ternary.dll
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/obj/Debug/net8.0/refint/5_Ternary.dll
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/obj/Debug/net8.0/5_Ternary.pdb
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/obj/Debug/net8.0/5_Ternary.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/5_Ternary/obj/Debug/net8.0/ref/5_Ternary.dll

@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/obj/Debug/net8.0/3_Armstrong.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/obj/Debug/net8.0/3_Armstrong.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/obj/Debug/net8.0/3_Armstrong.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/obj/Debug/net8.0/3_Armstrong.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/bin/Debug/net8.0/3_Armstrong
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/bin/Debug/net8.0/3_Armstrong.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/bin/Debug/net8.0/3_Armstrong.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/bin/Debug/net8.0/3_Armstrong.dll
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/bin/Debug/net8.0/3_Armstrong.pdb
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/obj/Debug/net8.0/3_Armstrong.dll
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/obj/Debug/net8.0/refint/3_Armstrong.dll
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/obj/Debug/net8.0/3_Armstrong.pdb
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/obj/Debug/net8.0/3_Armstrong.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/INTRODUCTION/3_Armstrong/obj/Debug/net8.0/ref/3_Armstrong.dll

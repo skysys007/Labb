@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/bin/Debug/net8.0/SINGLE
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/bin/Debug/net8.0/SINGLE.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/bin/Debug/net8.0/SINGLE.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/bin/Debug/net8.0/SINGLE.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/bin/Debug/net8.0/SINGLE.pdb
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/obj/Debug/net8.0/SINGLE.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/obj/Debug/net8.0/SINGLE.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/obj/Debug/net8.0/SINGLE.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/obj/Debug/net8.0/SINGLE.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/obj/Debug/net8.0/SINGLE.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/obj/Debug/net8.0/refint/SINGLE.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/obj/Debug/net8.0/SINGLE.pdb
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/obj/Debug/net8.0/SINGLE.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/Inheritance/obj/Debug/net8.0/ref/SINGLE.dll

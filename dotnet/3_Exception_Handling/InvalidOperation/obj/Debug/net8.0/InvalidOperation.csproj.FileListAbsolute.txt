@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/bin/Debug/net8.0/InvalidOperation
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/bin/Debug/net8.0/InvalidOperation.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/bin/Debug/net8.0/InvalidOperation.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/bin/Debug/net8.0/InvalidOperation.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/bin/Debug/net8.0/InvalidOperation.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/obj/Debug/net8.0/InvalidOperation.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/obj/Debug/net8.0/InvalidOperation.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/obj/Debug/net8.0/InvalidOperation.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/obj/Debug/net8.0/InvalidOperation.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/obj/Debug/net8.0/InvalidOperation.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/obj/Debug/net8.0/refint/InvalidOperation.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/obj/Debug/net8.0/InvalidOperation.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/obj/Debug/net8.0/InvalidOperation.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/InvalidOperation/obj/Debug/net8.0/ref/InvalidOperation.dll

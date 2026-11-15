@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/bin/Debug/net8.0/FileNotFound
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/bin/Debug/net8.0/FileNotFound.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/bin/Debug/net8.0/FileNotFound.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/bin/Debug/net8.0/FileNotFound.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/bin/Debug/net8.0/FileNotFound.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/obj/Debug/net8.0/FileNotFound.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/obj/Debug/net8.0/FileNotFound.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/obj/Debug/net8.0/FileNotFound.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/obj/Debug/net8.0/FileNotFound.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/obj/Debug/net8.0/FileNotFound.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/obj/Debug/net8.0/refint/FileNotFound.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/obj/Debug/net8.0/FileNotFound.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/obj/Debug/net8.0/FileNotFound.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/FileNotFound/obj/Debug/net8.0/ref/FileNotFound.dll

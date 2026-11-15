@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/bin/Debug/net8.0/Arithmetic
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/bin/Debug/net8.0/Arithmetic.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/bin/Debug/net8.0/Arithmetic.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/bin/Debug/net8.0/Arithmetic.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/bin/Debug/net8.0/Arithmetic.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/obj/Debug/net8.0/Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/obj/Debug/net8.0/Arithmetic.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/obj/Debug/net8.0/Arithmetic.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/obj/Debug/net8.0/Arithmetic.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/obj/Debug/net8.0/Arithmetic.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/obj/Debug/net8.0/refint/Arithmetic.dll
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/obj/Debug/net8.0/Arithmetic.pdb
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/obj/Debug/net8.0/Arithmetic.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/3_Exception_Handling/Arithmetic/obj/Debug/net8.0/ref/Arithmetic.dll

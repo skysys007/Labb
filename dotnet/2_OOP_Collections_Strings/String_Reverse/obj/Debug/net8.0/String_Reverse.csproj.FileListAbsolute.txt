@@ -1,0 +1,14 @@
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/bin/Debug/net8.0/String_Reverse
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/bin/Debug/net8.0/String_Reverse.deps.json
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/bin/Debug/net8.0/String_Reverse.runtimeconfig.json
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/bin/Debug/net8.0/String_Reverse.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/bin/Debug/net8.0/String_Reverse.pdb
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/obj/Debug/net8.0/String_Reverse.GeneratedMSBuildEditorConfig.editorconfig
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/obj/Debug/net8.0/String_Reverse.AssemblyInfoInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/obj/Debug/net8.0/String_Reverse.AssemblyInfo.cs
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/obj/Debug/net8.0/String_Reverse.csproj.CoreCompileInputs.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/obj/Debug/net8.0/String_Reverse.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/obj/Debug/net8.0/refint/String_Reverse.dll
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/obj/Debug/net8.0/String_Reverse.pdb
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/obj/Debug/net8.0/String_Reverse.genruntimeconfig.cache
+/home/skysys/Desktop/5th SEM/dotnet/OOP_Collections_Strings/String_Reverse/obj/Debug/net8.0/ref/String_Reverse.dll
